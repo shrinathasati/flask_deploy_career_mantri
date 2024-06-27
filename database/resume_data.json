@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Shadwars",
+        "email": "buddies_cisco@googlegroups.com",
+        "phone": "871255552",
+        "education": "SATI",
+        "skills": "react",
+        "experience": "2+",
+        "certifications": "GOogle",
+        "projects": "Many",
+        "languages": "Hindi"
+    },
+    {
+        "name": "Nandni Asati",
+        "email": "nandniasati2002@gmail.com",
+        "phone": "8770801858",
+        "education": "VIT",
+        "skills": "Java",
+        "experience": "Shell",
+        "certifications": "android studio",
+        "projects": "Face recognition",
+        "languages": "Hindi"
+    },
+    {
+        "name": "Rahul Dhakad",
+        "email": "rahul@gamil.com",
+        "phone": "854055235",
+        "education": "SATI",
+        "skills": "C++",
+        "experience": "1+",
+        "certifications": "python",
+        "projects": "face detect",
+        "languages": "hindi"
+    },
+    {
+        "name": "Raghu",
+        "email": "raghu@gmail.com",
+        "phone": "62641758945",
+        "education": "PG",
+        "skills": "C++",
+        "experience": "2+",
+        "certifications": "Pyhton",
+        "projects": "hfdhhkdjf",
+        "languages": "hdkjfd"
+    },
+    {
+        "name": "shakti",
+        "email": "shakti@gmail.com",
+        "phone": "8817755431",
+        "education": "SART vidisha",
+        "skills": "C++",
+        "experience": "ml",
+        "certifications": "C++",
+        "projects": "Machine learning",
+        "languages": "hindi"
+    },
+    {
+        "name": "Nandni Asati",
+        "email": "nandniasati2002@gmail.com",
+        "phone": "8770801858",
+        "education": "VIT",
+        "skills": "Java",
+        "experience": "Assistant software engineer",
+        "certifications": "Developer",
+        "projects": "Face recognization",
+        "languages": "English"
+    }
+]

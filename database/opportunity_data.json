@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Web developer",
+        "description": "stiend 4000",
+        "location": "Bhopal",
+        "deadline": "2024-05-01"
+    },
+    {
+        "title": "Machine learing",
+        "description": "Stipend: 50000",
+        "location": "Indore",
+        "deadline": "2024-06-01"
+    },
+    {
+        "title": "Machine learing",
+        "description": "Stipend: 50000",
+        "location": "Indore",
+        "deadline": "2024-06-01"
+    },
+    {
+        "title": "c++",
+        "description": "Stipend: 50000",
+        "location": "Mumbai",
+        "deadline": "2024-07-01"
+    },
+    {
+        "title": "ML intern",
+        "description": "stipend: 80000",
+        "location": "Pakisthan",
+        "deadline": "2222-02-12"
+    }
+]
