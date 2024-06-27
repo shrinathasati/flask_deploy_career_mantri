@@ -3,5 +3,4 @@ pymongo
 flask_cors
 python-dotenv
 google-generativeai
-ast
 os
