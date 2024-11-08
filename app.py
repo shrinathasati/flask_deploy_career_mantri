@@ -254,5 +254,7 @@ def Signup():
         except Exception as e:
             return "Error in db"
         return jsonify({'message': 'Registration successful'}), 200
-if __name__ == '__main__':
-    app.run(debug=False)
+
+@app.route("/")
+def call():
+    return "Grish"
