@@ -3,7 +3,6 @@ pymongo
 flask_cors
 python-dotenv
 google-generativeai
-ast  # To safely evaluate string expressions as literals
 requests  # For handling HTTP requests if needed elsewhere in the code
 jsonlib-python3  # Additional JSON handling utilities, optional
 Gunicorn
